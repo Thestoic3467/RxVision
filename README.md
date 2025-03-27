@@ -54,17 +54,6 @@ This project uses Google Gemini API. Replace the API key in `app.py` with your o
 genai.configure(api_key="YOUR_GEMINI_API_KEY")
 ```
 
-## 📌 Screenshots
-<img src="screenshot.png" alt="App Screenshot" width="600px">
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 💡 Future Enhancements
-- ✅ Improve accuracy with fine-tuned AI models.
-- ✅ Add multilingual support for prescriptions in different languages.
-- ✅ Store extracted text in a database for easy retrieval.
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
