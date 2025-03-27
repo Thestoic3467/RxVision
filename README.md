@@ -57,8 +57,6 @@ genai.configure(api_key="YOUR_GEMINI_API_KEY")
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## 📧 Contact
-For queries, reach out to **[Your Name](mailto:your-email@example.com)**.
 
 ---
 🌟 **Star the repo if you find it useful!** 🚀
